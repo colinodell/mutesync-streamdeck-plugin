@@ -1,0 +1,9 @@
+{
+  "Name": "Mutesync (Unofficial)",
+  "Description": "Unofficial integration with the mutesync virtual button",
+  "Category": "Mutesync (Unofficial)",
+  "com.colinodell.mutesync.action": {
+    "Name": "Toggle Microphone",
+    "Tooltip": "Toggle your microphone via the mutesync virtual button"
+  }
+}

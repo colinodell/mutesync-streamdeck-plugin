@@ -1,0 +1,41 @@
+{
+  "Actions": [
+    {
+      "Icon": "images/actionimage",
+      "Name": "Toggle Microphone",
+      "States": [
+        {
+          "Image": "images/unmuted"
+        },
+        {
+          "Image": "images/muted"
+        }
+      ],
+      "Tooltip": "Toggle your microphone via the mutesync virtual button",
+      "UUID": "com.colinodell.mutesync.action"
+    }
+  ],
+  "SDKVersion": 2,
+  "Author": "Colin O'Dell",
+  "CodePath": "index.html",
+  "Description": "Unofficial integration with the mutesync virtual button",
+  "Name": "Mutesync (Unofficial)",
+  "Icon": "images/actionimage",
+  "Category": "Mutesync (Unofficial)",
+  "CategoryIcon": "images/category",
+  "URL": "https://github.com/colinodell/mutesync-streamdeck-plugin",
+  "Version": "0.1.0",
+  "OS": [
+    {
+        "Platform": "mac",
+        "MinimumVersion" : "10.11"
+    },
+    {
+        "Platform": "windows",
+        "MinimumVersion" : "10"
+    }
+  ],
+  "Software": {
+      "MinimumVersion" : "4.1"
+  }
+}
