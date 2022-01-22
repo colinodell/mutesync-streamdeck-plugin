@@ -15,7 +15,7 @@ Integrates the [mütesync virtual button](https://mutesync.com/virtual-mute-butt
 
 ## Installation
 
-1. Download the latest release of this plugin.
+1. Download the [latest release](https://github.com/colinodell/mutesync-streamdeck-plugin/releases) of this plugin.
 2. Install it into the Stream Deck software.
 3. Open the mutesync virtual button preferences, go to the Authentication tab, and check the "Allow External App" checkbox.
 4. Add the plugin's action button to your Stream Deck.
